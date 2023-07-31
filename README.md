@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e desenvolvimento de sistemas e estou me aprimorando e disponibilizando aquilo que já estudei nos repositórios.
 
-![Danmarty GitHub stats](https://github-readme-stats.vercel.app/api?username=Danmarty&show_icons=true&theme=dark)
+![Danmarty GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danmarty&show_icons=true&theme=dark)
 
 ### Tecnologias que eu já estudei
 <div style="display: inline_block"><br/>
@@ -18,7 +18,7 @@ Sou estudante de Análise e desenvolvimento de sistemas e estou me aprimorando e
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danmarty&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danmarty&layout=compact)
 <!--
 **Danmarty/Danmarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
