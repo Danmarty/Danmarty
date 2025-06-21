@@ -1,6 +1,6 @@
 ### Olá, eu sou o Daniel Martinez! 😄👋 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danmrty/)
 
-Sou estudante de Análise e desenvolvimento de sistemas e estou me aprimorando e disponibilizando aquilo que já estudei nos repositórios.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou me aprimorando e disponibilizando aquilo que já estudei nos repositórios.
 
 ![Danmarty GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danmarty&show_icons=true&theme=dark)
 
